@@ -1,6 +1,6 @@
 # Projeto de Reconhecimento Facial, Extração de Texto e Geração de Legendas para Imagens
 
-Este projeto utiliza o **Azure AI Vision Studio** para realizar tarefas avançadas de visão computacional, incluindo:
+Este projeto utilizou o **Azure AI Vision Studio** para realizar tarefas avançadas de visão computacional, incluindo:
 
 1. **Reconhecimento Facial:** Identificação e localização de rostos em imagens.
 2. **Extração de Texto:** Extração de texto a partir de imagens utilizando recursos de OCR (Optical Character Recognition) do Azure AI.
